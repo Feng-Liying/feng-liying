@@ -1,6 +1,42 @@
 <html>
-<body>hello<body>
+  <head>
+    <style>
+      body, table{
+     		text-align: center; 
+      }
+    </style>
+  </head>
 
-
-
-</html>
+<p ><strong>LINE THINGS STARER</strong></p>
+<hr />
+<p >DEVICE DISCOMMECTRD</p>
+<hr />
+<table >
+<tbody>
+<tr>
+<td ><strong>NAME</strong></td>
+<td ><strong>&nbsp;</strong></td>
+</tr>
+<tr>
+<td><strong>ID</strong></td>
+<td ><strong>&nbsp;</strong></td>
+</tr>
+<tr>
+<td><strong>PSDI</strong></td>
+<td><strong>&nbsp;</strong></td>
+</tr>
+<tr>
+<td ><strong>BUTTON STATE</strong></td>
+<td ><strong><button> released </button></strong></td>
+</tr>
+<tr>
+<td ><strong>CLICK COUTN</strong></td>
+<td ><strong>&nbsp;</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><button>SWITCH LED ON</button></p>
+<p>&nbsp;</p>
+<hr />
+  </html>
